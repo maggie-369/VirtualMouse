@@ -130,7 +130,7 @@ while True:
         break
 
 # Cleanup
-if left_click:
+if left_clic:
     pyautogui.mouseUp(button='left')
 if right_click:
     pyautogui.mouseUp(button='right')
